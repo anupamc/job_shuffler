@@ -7,7 +7,7 @@ $ bundle install
 
 ### Running Tasks
 
-Run `executor.rb` script with `string_shuffle.input`
+Run `lib/executor.rb` script with `string_shuffle.input`
 ```
 $ rake run
 ```
